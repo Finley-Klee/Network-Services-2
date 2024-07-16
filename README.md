@@ -1,7 +1,7 @@
 # Network-Services-2
 This is a walkthrough of my work in the second part of the network services rooms on TryHackMe, which teaches how to exploit the 6 most commonly used network services in CTFs. The room can be found here: https://tryhackme.com/r/room/networkservices2
 <h2>Description</h2>
-Insert a short description of the project
+This room goes over three more common network services NFS (Network File System), SMTP (Simple Mail Transfer Protocol), and MySQL a relational database management system using Structured Query Language.
 
 <h2>Utilities Used</h2>
 
